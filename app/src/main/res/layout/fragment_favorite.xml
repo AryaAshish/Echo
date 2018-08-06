@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:clickable="true">
+        <android.support.v7.widget.RecyclerView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+            android:id="@+id/favoriteRecycler">
+
+</android.support.v7.widget.RecyclerView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:id="@+id/hiddenBarFavScreen"
+        android:visibility="invisible"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorPrimary">
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/playPauseButtonFav"
+            android:layout_centerVertical="true"
+            android:background="@drawable/pause_icon"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="31dp"/>
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/defaultMusic"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="13dp"
+            android:minHeight="0dp"
+            android:minWidth="0dp"
+            android:background="@drawable/now_playing_bar_eq_image"
+            android:layout_centerVertical="true"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Now Playing"
+            android:id="@+id/nowPlaying"
+            android:layout_toRightOf="@id/defaultMusic"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="11dp"
+            android:textColor="#bdbdbd"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/songTitleFavScreen"
+            android:layout_below="@id/nowPlaying"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:maxWidth="160dp"
+            android:singleLine="true"
+            android:layout_marginTop="5dp"
+            android:text="..."
+            android:layout_alignLeft="@id/nowPlaying"
+            android:layout_alignStart="@id/nowPlaying"
+            android:textColor="#ffffff"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+
+            />
+    </RelativeLayout>
+    <TextView
+        android:id="@+id/noFavorites"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="You have not got any favorites!"
+        android:textColor="#212121"
+        android:visibility="invisible" />
+    </RelativeLayout>

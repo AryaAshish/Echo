@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_gradient"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ImageView
+        android:layout_width="160dp"
+        android:layout_height="82dp"
+        android:minWidth="0dp"
+        android:minHeight="0dp"
+        android:background="@drawable/echo_logo"
+        android:layout_centerInParent="true"/>
+</RelativeLayout>
