@@ -16,23 +16,17 @@ User Friendly - Great UI and UX
 
 Hope that Everybody Loves this App and Enjoy the new music playing experience.
 
-#Note :-
-
-1.) This is an Open Source App whose project problem statement is offered by Internshala to its students undergoing their courses. This app belongs to Internshala, MIT and all open source communities i.e. GitHub, Stack Overflow etc. whose resources i used while its development.
-
-2.) I am not earning a penny with this app. This is just to showcase my Android Development skills as a beginner.
-
 ## Screenshots
 <table>
     <tr>
-     <td><img src="/Screenshots/Screenshot_2018-11-25-11-33-39-677_com.medeveloper.ayaz.boltconnect.png"></td>
-     <td><img src="/Screenshots/Screenshot_2018-11-25-11-35-17-971_com.medeveloper.ayaz.boltconnect.png"></td>
-     <td><img src="/Screenshots/Screenshot_2018-11-25-11-35-27-854_com.medeveloper.ayaz.boltconnect.png"></td>
+     <td><img src="/Screenshots/A.png"></td>
+     <td><img src="/Screenshots/B.png"></td>
+     <td><img src="/Screenshots/C.png"></td>
     </tr>
      <tr> 
-      <td><img src="/Screenshots/Screenshot_2018-11-25-11-35-40-874_com.medeveloper.ayaz.boltconnect.png"></td>
-      <td><img src="/Screenshots/Screenshot_2018-11-25-11-35-48-401_com.medeveloper.ayaz.boltconnect.png"></td>
-      <td><img src="/Screenshots/Screenshot_2018-11-25-11-35-52-164_com.medeveloper.ayaz.boltconnect.png"></td>
+      <td><img src="/Screenshots/D.png"></td>
+      <td><img src="/Screenshots/E.png"></td>
+      <td><img src="/Screenshots/F.png"></td>
       </tr>
   </table>
   
@@ -64,6 +58,6 @@ First Install the App
 Once you open the app you will get a screen like this
 
 <br>
-<img width ="200" height ="400" align="center" src="/Screenshot_2018-11-25-11-27-26-754_com.medeveloper.ayaz.boltconnect.png"/><br>
+<img width ="200" height ="400" align="center" src="/Screenshots/B.png"/><br>
 
 <p>Just Enjoy the music.</p>
