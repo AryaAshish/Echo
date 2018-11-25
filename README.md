@@ -66,4 +66,4 @@ Once you open the app you will get a screen like this
 <br>
 <img width ="200" height ="400" align="center" src="/Screenshot_2018-11-25-11-27-26-754_com.medeveloper.ayaz.boltconnect.png"/><br>
 
-<p>Just type your Bolt Device Id and API key in the box and Hit submit.</p>
+<p>Just Enjoy the music.</p>
