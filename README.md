@@ -55,7 +55,7 @@ Before you begin, you should have already downloaded the Android Studio SDK and 
 
 ## How to use
 First Install the App
-Once you open the app you will get a screen like this
+After you have opened the app you will get a screen like this
 
 <br>
 <img width ="200" height ="400" align="center" src="/Screenshots/B.png"/><br>
